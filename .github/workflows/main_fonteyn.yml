@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'Fonteyn'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_905D46E3D82F4FBEA5B62BC08AD41BB9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E46881DE54014117ACB653360F53FE9A }}
